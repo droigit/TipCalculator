@@ -10,23 +10,23 @@ Time spent: **0.5** hours spent in total
 
 The following **required** functionality is completed:
 
-* [y] User can enter in a bill amount (total amount to tip on)
-* [y] User can enter a tip percentage (what % the user wants to tip).
-* [y] The tip and total amount are updated immediately when any of the inputs changes.
-* [y] The user sees a label or color update based on the tip amount. 
+* User can enter in a bill amount (total amount to tip on)
+* User can enter a tip percentage (what % the user wants to tip).
+* The tip and total amount are updated immediately when any of the inputs changes.
+* The user sees a label or color update based on the tip amount. 
 
 The following **extensions** are implemented:
 
-* [y] Custom colors palette selected
-* [y] List of saved totals on new activity to keep track of spending
+* Custom colors palette selected
+* List of saved totals on new activity to keep track of spending
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](tip.gif)
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with peek.
 
 ## Notes
 
